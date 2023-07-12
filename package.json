@@ -1,7 +1,7 @@
 {
-  "name": "strapi-plugin-github-publish",
-  "version": "0.2.0",
-  "description": "A plugin to easily trigger GitHub Actions workflows from Strapi.",
+  "name": "cheems-publisher",
+  "version": "1.0.0",
+  "description": "Cheems Publisher",
   "strapi": {
     "name": "GitHub Publishing",
     "icon": "plug",
@@ -18,15 +18,15 @@
     "depcheck": "npx npm-check --update"
   },
   "author": {
-    "name": "Phantom Studios Ltd.",
-    "email": "boo@phntms.com",
-    "url": "https://www.phntms.com"
+    "name": "Mattee37",
+    "email": "maccaronemateo.dev@gmail.com",
+    "url": "https://google.com"
   },
   "maintainers": [
     {
-      "name": "Phantom Studios Ltd.",
-      "email": "boo@phntms.com",
-      "url": "https://www.phntms.com"
+      "name": "Mattee37",
+      "email": "maccaronemateo.dev@gmail.com",
+      "url": "https://google.com"
     }
   ],
   "engines": {
